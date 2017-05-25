@@ -1,7 +1,7 @@
 {
   "name": "ember-simple-google-maps",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "1.0.0",
+  "description": "Addon that makes the Google maps API available to an application",
   "keywords": [
     "ember-addon"
   ],

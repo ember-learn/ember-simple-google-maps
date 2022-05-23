@@ -1,4 +1,11 @@
-# ember-simple-google-maps
+# deprecated - ember-simple-google-maps
+
+This addon was used for teaching older versions of Ember (before v3.14), and is deprecated.
+This means it will no longer accept PRs and updates, however you can still install this addon from npm
+if you are learning older versions of Ember.
+
+To view the current supported official Ember tutorial, visit
+[https://guides.emberjs.com/release/tutorial/part-1/](https://guides.emberjs.com/release/tutorial/part-1/).
 
 Makes the Google Maps API available to a consuming application by supplying its external script to the Application's `index.html`.
 
